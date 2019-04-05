@@ -8,6 +8,6 @@ Find different patterns in user data and problem data to find range of attempts 
 
 - [Devanshu Jindal](https://github.com/jindalji)
 
-- [Ishan Kulshrestha]((https://github.com/Ikulshrestha)
+- [Ishan Kulshrestha](https://github.com/Ikulshrestha)
 
 - [Vishnu Agarwal](https://github.com/vishnuagarwal93)
