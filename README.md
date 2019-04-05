@@ -3,10 +3,11 @@ Find different patterns in user data and problem data to find range of attempts 
 
 ## Contributions:
 
-- Harsh Agarwal
-- Devanshu Jindal
-- Gagan Gaur
-- Ishan Kulshrestra
-- Vishal Agarwal
 
-@jindalji
+- [Harsh Agarwal](https://github.com/harshaga998)
+
+- [Devanshu Jindal](https://github.com/jindalji)
+
+- [Ishan Kulshrestha]((https://github.com/Ikulshrestha)
+
+- [Vishnu Agarwal](https://github.com/vishnuagarwal93)
