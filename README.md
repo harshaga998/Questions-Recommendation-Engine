@@ -11,3 +11,5 @@ Find different patterns in user data and problem data to find range of attempts 
 - [Ishan Kulshrestha](https://github.com/Ikulshrestha)
 
 - [Vishnu Agarwal](https://github.com/vishnuagarwal93)
+
+#### P.S: Open the notebook in google colab or in jupyter notebook.
